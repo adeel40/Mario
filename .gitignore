@@ -50,5 +50,5 @@ app.*.map.json
 # Machine-specific SDK paths
 /android/local.properties
 
-# Locally built APKs (distributed via GitHub Releases instead)
-/dist/
+# Note: the release APK is intentionally committed under dist/ so it can be
+# downloaded directly from GitHub.
