@@ -1,5 +1,18 @@
 # 🎮 Super Dash — a Mario-style platformer for Android
 
+## 📥 Download & play now
+
+**[⬇️ Download SuperDash-v1.0.0.apk](https://github.com/adeel40/Mario/raw/main/dist/SuperDash-v1.0.0.apk)** (46 MB)
+
+1. Open the link above **on your Android phone** — the APK downloads.
+2. Tap the downloaded file. If asked, allow "install from this source".
+3. Tap **Install → Open**. The game runs in landscape with on-screen D-pad + JUMP.
+
+> Signed with a debug key (fine for sideloading; re-sign with your own keystore for the Play Store).
+
+---
+
+
 A polished 2D side-scrolling platformer built with **Flutter + Flame**. Hand-painted
 retro visuals (no image assets needed — everything is drawn with the canvas),
 smooth physics, multiple levels, enemies, coins, sound hooks, and touch controls.
